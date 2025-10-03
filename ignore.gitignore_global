@@ -1,0 +1,4 @@
+# ignorar lineas de codigo
+const API_URL = "http://localhost:4000/api/v1"; 
+const EMAIL = "admin@admin.com";   // puedes ocultarlos en env del FE si compilas
+const PASSWORD = "admin";
